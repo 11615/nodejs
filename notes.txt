@@ -20,4 +20,12 @@ A typical event is someone trying to access a port on the server
 Node.js files must be initiated on the server before having any effect
 Node.js files have extension ".js"
 
+Command Line Interface
+Node.js files must be initiated in the "Command Line Interface" program of your computer.
+
+How to open the command line interface on your computer depends on the operating system. For Windows users, press the start button and look for "Command Prompt", or simply write "cmd" in the search field.
+
+Navigate to the folder that contains the file "myfirst.js", the command line interface window should look something like this:
+
+C:\Users\Your Name>_
 
